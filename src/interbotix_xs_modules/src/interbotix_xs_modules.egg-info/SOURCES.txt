@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/interbotix_xs_modules/__init__.py
+src/interbotix_xs_modules/arm.py
+src/interbotix_xs_modules/core.py
+src/interbotix_xs_modules/create3.py
+src/interbotix_xs_modules/gripper.py
+src/interbotix_xs_modules/hexapod.py
+src/interbotix_xs_modules/kobuki.py
+src/interbotix_xs_modules/locobot.py
+src/interbotix_xs_modules/mr_descriptions.py
+src/interbotix_xs_modules/turret.py
+src/interbotix_xs_modules.egg-info/PKG-INFO
+src/interbotix_xs_modules.egg-info/SOURCES.txt
+src/interbotix_xs_modules.egg-info/dependency_links.txt
+src/interbotix_xs_modules.egg-info/top_level.txt

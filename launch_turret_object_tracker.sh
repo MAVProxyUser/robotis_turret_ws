@@ -1,0 +1,2 @@
+roslaunch interbotix_xsturret_object_tracker xsturret_object_tracker.launch robot_model:=vxxms
+echo detail here: https://github.com/Interbotix/interbotix_ros_turrets/tree/236b8de875ebea6f7e3b1054dbe16a9794016d69/interbotix_ros_xsturrets/examples/interbotix_xsturret_object_tracker
